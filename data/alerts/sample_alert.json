@@ -1,0 +1,7 @@
+{
+  "alert_id": "ALERT-2026-00091",
+  "source_ip": "185.193.88.42",
+  "destination_host": "FIN-WS-014",
+  "user": "jane.doe",
+  "summary": "Multiple failed authentications followed by remote service execution attempt"
+}

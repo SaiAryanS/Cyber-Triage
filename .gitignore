@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.env
+data/memory.db
+dashboard/node_modules/

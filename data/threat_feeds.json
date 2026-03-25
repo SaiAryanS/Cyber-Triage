@@ -1,0 +1,18 @@
+{
+  "malicious_ips": [
+    {
+      "ip": "185.193.88.42",
+      "risk": "high",
+      "score": 92,
+      "tags": ["bruteforce", "credential_abuse", "ransomware_staging"],
+      "last_seen": "2026-03-20"
+    },
+    {
+      "ip": "91.240.118.11",
+      "risk": "medium",
+      "score": 66,
+      "tags": ["scanner", "botnet_c2"],
+      "last_seen": "2026-03-19"
+    }
+  ]
+}
