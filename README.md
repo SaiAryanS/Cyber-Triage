@@ -342,5 +342,4 @@ Alternative:
 
 ---
 
-## 15) Conclusion
 
